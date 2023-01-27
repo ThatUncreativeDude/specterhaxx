@@ -8,3 +8,9 @@ Don't really care. I wouldn't recommend basing or using this as a cheat for the 
 
 ## Can I take code from this project?
 Go ahead, feel free to take a look at this source code and use this for your project but be aware that this hasn't been updated since 07-12-2022 (except for some minor bug fixes after a few days of release) so don't be surprised if anything is detected or it's broken.
+
+## Will this ever be updated?
+No, this project has been discontinued for a while now. So, no updates.
+
+## What are some good alternatives?
+I would recommend using Proxima Hub or Lisher, if you are having trouble finding them, search it on robloxscripts.com

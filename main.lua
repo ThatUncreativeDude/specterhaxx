@@ -1,6 +1,3 @@
---[[
-Credits go to Carson#9977 for cleaning the original version of the script and documenting it
-]]
 
 
 local services = {
